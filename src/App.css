@@ -1,0 +1,16 @@
+.pink-nav {
+    display: flex;
+    background-color: pink;
+    width: 100%;
+    color: aliceblue;
+    padding-left: 20px;
+}
+
+.div{
+    box-sizing: border-box;
+}
+.list {
+    padding-left: 20px;
+    text-align: left;
+    border-bottom: 1px solid grey;
+}
